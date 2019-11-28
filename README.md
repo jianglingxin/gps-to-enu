@@ -20,7 +20,7 @@ Find the installation instruction on [ros](https://www.ros.org/).
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone
+git clone https://github.com/jianglingxin/gps-to-enu.git
 cd ../..
 catkin_make
 ```
